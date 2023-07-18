@@ -15,41 +15,19 @@
   font-size: 40px;
   background-color: black;
   font-weight: 700;
-  animation: glow 1000ms infinite alternate;
+  animation: glow-1 1000ms infinite alternate;
 }
 
-@keyframes glow {
+@keyframes glow-1 {
   form {
-    text-shadow: 0 0 10px #ee1c1c, 0 0 20px #f3094f, 0 0 30px #f306df;
+    text-shadow: 0 0 10px #ee1c1c, 0 0 20px #f3183d, 0 0 30px #ff1313;
   }
 
   to {
-    text-shadow: 0 0 5px #ee1c1c, 0 0 0px #f5064e, 0 0 30px #fd0de9;
+    text-shadow: 0 0 5px #ee1c1c, 0 0 10px #f3183d, 0 0 15px #ff1313;
   }
 }
 /********************************************************************************/
-.text-1 {
-  color: white;
-  text-align: center;
-  font-family: cursive;
-  font-size: 40px;
-  background-color: black;
-  font-weight: 700;
-  animation: glow 1000ms infinite alternate;
-}
-
-@keyframes glow {
-  form {
-    text-shadow: 0 0 10px #ee1c1c, 0 0 20px #f3094f, 0 0 30px #f306df;
-  }
-
-  to {
-    text-shadow: 0 0 5px #ee1c1c, 0 0 0px #f5064e, 0 0 30px #fd0de9;
-  }
-}
-
-/********************************************************************************/
-
 .text-2 {
   color: white;
   text-align: center;
@@ -57,16 +35,16 @@
   font-size: 40px;
   background-color: black;
   font-weight: 700;
-  animation: glow 1000ms infinite alternate;
+  animation: glow-two 1000ms infinite alternate;
 }
 
-@keyframes glow {
+@keyframes glow-two {
   form {
-    text-shadow: 0 0 10px #ee1c1c, 0 0 20px #f3094f, 0 0 30px #f306df;
+    text-shadow: 0 0 10px #1877f2, 0 0 20px #1459b3, 0 0 30px #179bff;
   }
 
   to {
-    text-shadow: 0 0 5px #ee1c1c, 0 0 0px #f5064e, 0 0 30px #fd0de9;
+    text-shadow: 0 0 5px #1877f2, 0 0 10px #1459b3, 0 0 15px #179bff;
   }
 }
 
@@ -79,16 +57,16 @@
   font-size: 40px;
   background-color: black;
   font-weight: 700;
-  animation: glow 1000ms infinite alternate;
+  animation: glow-3 1000ms infinite alternate;
 }
 
-@keyframes glow {
+@keyframes glow-3 {
   form {
-    text-shadow: 0 0 10px #ee1c1c, 0 0 20px #f3094f, 0 0 30px #f306df;
+    text-shadow: 0 0 10px #fd9800, 0 0 20px #f17e31, 0 0 30px #ffd51b;
   }
 
   to {
-    text-shadow: 0 0 5px #ee1c1c, 0 0 0px #f5064e, 0 0 30px #fd0de9;
+    text-shadow: 0 0 5px #fd9800, 0 0 10px #f17e31, 0 0 15px #ffd51b;
   }
 }
 
@@ -101,15 +79,15 @@
   font-size: 40px;
   background-color: black;
   font-weight: 700;
-  animation: glow 1000ms infinite alternate;
+  animation: glow-4 1000ms infinite alternate;
 }
 
-@keyframes glow {
+@keyframes glow-4 {
   form {
-    text-shadow: 0 0 10px #ee1c1c, 0 0 20px #f3094f, 0 0 30px #f306df;
+    text-shadow: 0 0 10px #fd16fd, 0 0 20px #fc00bd, 0 0 30px #ff00ea;
   }
 
   to {
-    text-shadow: 0 0 5px #ee1c1c, 0 0 0px #f5064e, 0 0 30px #fd0de9;
+    text-shadow: 0 0 5px #fd16fd, 0 0 10px #fc00bd, 0 0 15px #ff00ea;
   }
 }
