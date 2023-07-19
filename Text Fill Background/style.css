@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 2rem);
+  margin-top: auto !important;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: 700;
+  background: linear-gradient(90deg, #f00b0b, 75deg #1d63fc);
+  -webkit-background-clip: "text";
+  -webkit-text-fill-color: transparent;
+}
