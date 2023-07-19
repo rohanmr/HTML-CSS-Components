@@ -1,3 +1,7 @@
 body {
   background-color: coral;
 }
+
+.loader {
+  border-radius: 10px solid;
+}
