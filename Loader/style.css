@@ -8,7 +8,7 @@ body {
 }
 
 .loader {
-  border-radius: 10px solid white;
+  border: 10px solid white;
   border-radius: 50%;
   height: 10vmin;
   width: 10vmin;
