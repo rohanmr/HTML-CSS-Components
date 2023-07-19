@@ -14,7 +14,7 @@ body {
   width: 10vmin;
   border-left-color: hsl(280, 50%, 40%);
   border-right-color: hsl(280, 50%, 40%);
-  animation: spin 2s linear infinite forwards;
+  animation: spin 1s linear infinite forwards;
 }
 
 @keyframes spin {
