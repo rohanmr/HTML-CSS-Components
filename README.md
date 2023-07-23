@@ -6,5 +6,6 @@ It is a simple useful component for Web development.
 1. Gradient Text
 2. Loader
 3. Neon Typography
+4. Mix Blend Text
 
 
