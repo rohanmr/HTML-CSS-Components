@@ -1,6 +1,8 @@
 # HTML-CSS-Components
 
-It is a simple useful component for Web development.  
+Download the files, Open them in VS code, and Run it on Live Server.
+
+It is a simple helpful component for Web development.  
 
 ## List:
 1. Gradient Text
