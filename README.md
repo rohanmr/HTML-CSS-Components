@@ -1,6 +1,8 @@
 # HTML-CSS-Components
 
-Download the files, Open them in VS code, and Run it on Live Server.
+1. Download the files.
+2. Open them in VS code.
+3. And Run it on Live Server.
 
 Install VS cose Extension Live Server.
 
