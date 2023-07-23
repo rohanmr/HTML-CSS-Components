@@ -2,6 +2,8 @@
 
 Download the files, Open them in VS code, and Run it on Live Server.
 
+Install VS cose Extension Live Server.
+
 It is a simple helpful component for Web development.  
 
 ## List:
