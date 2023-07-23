@@ -9,7 +9,7 @@ Install VS cose Extension Live Server.
 ## Info:
 It is a simple helpful component for Web development.  
 
-## List:
+## List of Component Files:
 1. Gradient Text
 2. Loader
 3. Neon Typography
