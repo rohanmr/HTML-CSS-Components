@@ -2,7 +2,8 @@
 
 1. Download the zip files.
 2. Open them in VS code.
-3. And Run it on Live Server.
+3. Install VS code Extension Live Server.
+4. And Run it on Live Server.
 
 Install VS cose Extension Live Server.
 
