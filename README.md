@@ -5,7 +5,7 @@
 3. Install VS code Extension Live Server.
 4. And Run it on Live Server.
 
-Install VS cose Extension Live Server.
+
 
 ## Info:
 It is a simple helpful component for Web development.  
